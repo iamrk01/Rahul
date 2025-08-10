@@ -1,47 +1,62 @@
-# Rahul
-# Hi there, I'm Rahul 👋
+<!-- Profile Banner -->
+![Gaming Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp2M25sMnlsY2MybGh1Mmg4ZGpqYXZ0NXd6ZnhnYjM1c2R2MmhlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/53SYcz732rXXxdVn4S/giphy.gif) <!-- Replace with your own custom banner image URL -->
+
+# Hi there, I'm Rahul 👋  
 
 🎮 **Passionate Gamer | Game QA Specialist | Aspiring Software Developer**
 
-I’m a **Software Test Engineer** with 5+ years of experience in **land-based EGM slots** and **iGaming casino games**, currently working at **Aristocrat Technologies, Noida**.  
-I specialize in ensuring **flawless player experiences** through **RNG & RTP validation**, **game compliance testing**, and **game analytics verification**.
+---
 
-Now, I’m transitioning into **software development**, focusing on **Java**, **Python**, and **game-related development tools**—bringing a **player’s perspective** to game design and coding.
+## 🌟 About Me
+
+I’m a **Software Test Engineer** with **5+ years** of experience in **land-based EGM slots** and **iGaming casino games**, currently working at **Aristocrat Technologies, Noida**.  
+
+I specialize in:
+- **RNG & RTP validation**
+- **Game compliance testing**
+- **Game analytics verification**
+- **Class II, Class III, Hybrid slot games**  
+
+💡 Currently transitioning into **software development**, mastering **Java**, **Python**, and **game development tools** to create high-quality, engaging gaming solutions.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-- **Programming & Scripting:** Java and Python
-- **Testing & QA:** Functional Testing, Compliance Testing, Game Math Validation, Regression Testing
-- **Domain Expertise:** Class II, Class III, Hybrid Slots, iGaming, RNG & RTP validation
-- **Tools:** JIRA, Confluence, Git, Postman, TestRail
-- **Other:** API Testing, SQL Basics, Agile Methodologies
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%230A0FFF.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
 ## 🚀 Current Focus
 
-- Sharpening my skills in **Java & Python**
 - Learning **Data Structures & Algorithms**
+- Building **Java & Python projects**
 - Exploring **game development frameworks**
-- Building a **developer portfolio** of projects
-
----
-
-## 📂 Featured Projects *(Coming Soon)*
-
-> I’m working on showcasing my **transition from QA to Development** through meaningful projects.  
-> Stay tuned! 🚀
+- Creating a **developer portfolio**
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/rahul-kumar-8695a41b0](#)
-- **Email:** te.rahul2020@gmail.com
-- **Portfolio:** *(Coming Soon)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul@example.com)
 
 ---
 
 ⭐ *“From finding bugs to building worlds—my journey continues.”*
+
